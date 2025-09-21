@@ -1,12 +1,12 @@
 # Food_Recommendation-Chatbot
 FOXO Health AI Coach
-This is a simple chatbot I built for the Confluentia Hackathon. It's a friendly guide that helps you figure out what food is good or bad for different health conditions, and it runs entirely in a Google Colab notebook.
+This is a simple chatbot we built for the Confluentia Hackathon. It's a friendly guide that helps you figure out what food is good or bad for different health conditions, and it runs entirely in a Google Colab notebook.
 
 What's the problem this solves?
 Trying to figure out what you can and can't eat when you have a health condition like Diabetes or Hypertension is tough. You usually get a long, confusing list of foods, but that doesn't help when you're at the store and just want to know if a banana is a good idea. Getting a quick, simple answer to everyday food questions is harder than it should be.
 
 How this project helps
-I built the Health AI Coach to fix this. It's an interactive chatbot that gives you clear, easy-to-understand food advice for your specific health needs.
+We built the Health AI Coach to fix this. It's an interactive chatbot that gives you clear, easy-to-understand food advice for your specific health needs.
 
 Instead of just giving you another list, the coach talks you through it. You tell it your health goal, ask about a food, and it explains everything step-by-step in a conversation. It doesn't just give you a one-word answer; it explains why a food is good or bad, which biomarker it affects, and offers recommendations.
 

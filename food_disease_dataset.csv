@@ -1,0 +1,1219 @@
+Food,Disease,Status,Reason,Biomarker,Curing/Alternative Foods
+Almond,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Almond,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Almond,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Almond,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Almond,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Almond,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Amaranth,Diabetes,Good,"High in fiber, complex carb",Blood Glucose,This food is recommended for this condition
+Amaranth,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Amaranth,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Amaranth,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Amaranth,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Amaranth,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Apple,Diabetes,Good,"High fiber, lower GI",Blood Glucose,This food is recommended for this condition
+Apple,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Apple,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Apple,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Apple,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Apple,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Apricot,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Quinoa, Buckwheat, Blackberry"
+Apricot,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Apricot,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Apricot,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Apricot,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Apricot,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Artichoke,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Artichoke,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Artichoke,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Artichoke,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Artichoke,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Artichoke,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Arugula,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Arugula,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Arugula,Hypertension,Good,"Rich in beneficial compounds (nitrates, etc.)",Blood Pressure,This food is recommended for this condition
+Arugula,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Arugula,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Arugula,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Asparagus,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Asparagus,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Asparagus,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Asparagus,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Asparagus,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Asparagus,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Avocado,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Avocado,Heart Disease,Good,Rich in monounsaturated fats,LDL,This food is recommended for this condition
+Avocado,Hypertension,Good,High potassium,Blood Pressure,This food is recommended for this condition
+Avocado,Kidney Disease,Avoid,Extremely high in potassium,Potassium,Consult nutritionist for alternatives
+Avocado,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Avocado,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bagel,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bagel,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bagel,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bagel,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bagel,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bagel,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Banana,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Spelt, Oats, Amaranth"
+Banana,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Banana,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Banana,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Banana,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Banana,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Barley,Diabetes,Good,"High in fiber, complex carb",Blood Glucose,This food is recommended for this condition
+Barley,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Barley,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Barley,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Barley,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Barley,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Beef,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Beef,Heart Disease,Avoid,High in saturated fat,LDL,"Recommended instead: Chia seeds, Pistachio, Flax seeds"
+Beef,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Beef,Kidney Disease,Avoid,High protein load,Creatinine,Consult nutritionist for alternatives
+Beef,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Beef,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Beetroot,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Beetroot,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Beetroot,Hypertension,Good,"Rich in beneficial compounds (nitrates, etc.)",Blood Pressure,This food is recommended for this condition
+Beetroot,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Beetroot,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Beetroot,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bell pepper (Capsicum),Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bell pepper (Capsicum),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bell pepper (Capsicum),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bell pepper (Capsicum),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bell pepper (Capsicum),Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Bell pepper (Capsicum),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Biscuits,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Biscuits,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Biscuits,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Biscuits,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Biscuits,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Pumpkin, Green beans, Mustard greens"
+Biscuits,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bitter gourd,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bitter gourd,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bitter gourd,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bitter gourd,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bitter gourd,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Bitter gourd,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Blackberry,Diabetes,Good,"High fiber, lower GI",Blood Glucose,This food is recommended for this condition
+Blackberry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Blackberry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Blackberry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Blackberry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Blackberry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Blueberry,Diabetes,Good,"High fiber, lower GI",Blood Glucose,This food is recommended for this condition
+Blueberry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Blueberry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Blueberry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Blueberry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Blueberry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bottle gourd,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bottle gourd,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bottle gourd,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bottle gourd,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bottle gourd,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Bottle gourd,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Brazil nut,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Brazil nut,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Brazil nut,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Brazil nut,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Brazil nut,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Brazil nut,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bread,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bread,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bread,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bread,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bread,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bread,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Broccoli,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Broccoli,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Broccoli,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Broccoli,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Broccoli,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Broccoli,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Broken wheat (Dalia),Diabetes,Good,"High in fiber, complex carb",Blood Glucose,This food is recommended for this condition
+Broken wheat (Dalia),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Broken wheat (Dalia),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Broken wheat (Dalia),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Broken wheat (Dalia),Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Broken wheat (Dalia),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Brown rice,Diabetes,Good,"High in fiber, complex carb",Blood Glucose,This food is recommended for this condition
+Brown rice,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Brown rice,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Brown rice,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Brown rice,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Brown rice,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Buckwheat,Diabetes,Good,"High in fiber, complex carb",Blood Glucose,This food is recommended for this condition
+Buckwheat,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Buckwheat,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Buckwheat,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Buckwheat,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Buckwheat,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bulgur,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Blackberry, Barley, Blueberry"
+Bulgur,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bulgur,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bulgur,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bulgur,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bulgur,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bun,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bun,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bun,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bun,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bun,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Bun,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Burger,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Burger,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Burger,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Beetroot, Garlic, Avocado"
+Burger,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Burger,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Onion, Green beans, Kale"
+Burger,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Burrito,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Burrito,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Burrito,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Burrito,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Burrito,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Broccoli, Potato, Bell pepper (Capsicum)"
+Burrito,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Butter,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Butter,Heart Disease,Avoid,High in saturated fat,LDL,"Recommended instead: Brazil nut, Cashew, Walnut"
+Butter,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Butter,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Butter,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Butter,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cabbage,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cabbage,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cabbage,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cabbage,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cabbage,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Cabbage,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cake,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Raspberry, Amaranth, Broken wheat (Dalia)"
+Cake,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cake,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cake,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cake,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Peas, Swiss chard, Turnip"
+Cake,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Candy,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Brown rice, Pear, Freekeh"
+Candy,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Candy,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Candy,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Candy,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Candy,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Carrot,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Carrot,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Carrot,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Carrot,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Carrot,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Carrot,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cashew,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cashew,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Cashew,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cashew,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cashew,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cashew,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cauliflower,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cauliflower,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cauliflower,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cauliflower,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cauliflower,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Cauliflower,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Celery,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Celery,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Celery,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Celery,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Celery,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Celery,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cheese,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cheese,Heart Disease,Avoid,High in saturated fat,LDL,"Recommended instead: Macadamia nut, Pecan, Pistachio"
+Cheese,Hypertension,Avoid,Very high in sodium,Blood Pressure,"Recommended instead: Avocado, Olive oil, Arugula"
+Cheese,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cheese,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cheese,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cherry,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Broken wheat (Dalia), Brown rice, Barley"
+Cherry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cherry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cherry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cherry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cherry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chia seeds,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chia seeds,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Chia seeds,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chia seeds,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chia seeds,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chia seeds,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chicken nuggets,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chicken nuggets,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chicken nuggets,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chicken nuggets,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chicken nuggets,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Quinoa, Pumpkin, Potato"
+Chicken nuggets,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chicken wings,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chicken wings,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chicken wings,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chicken wings,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chicken wings,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Yam, Ginger, Fenugreek leaves (methi)"
+Chicken wings,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chili pepper,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chili pepper,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chili pepper,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chili pepper,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chili pepper,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Chili pepper,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chocolate,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Wild rice, Quinoa, Broken wheat (Dalia)"
+Chocolate,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chocolate,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chocolate,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chocolate,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Chocolate,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Churros,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Blueberry, Buckwheat, Farro"
+Churros,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Churros,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Churros,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Churros,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Mustard greens, Pumpkin, Radish"
+Churros,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Coconut,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Buckwheat, Quinoa, Spelt"
+Coconut,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Coconut,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Coconut,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Coconut,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Coconut,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Coriander,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Coriander,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Coriander,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Coriander,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Coriander,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Coriander,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Corn,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Corn,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Corn,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Corn,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Corn,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Corn,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Corn (Maize),Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Brown rice, Raspberry, Teff"
+Corn (Maize),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Corn (Maize),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Corn (Maize),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Corn (Maize),Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Corn (Maize),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Couscous,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Farro, Blueberry, Wild rice"
+Couscous,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Couscous,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Couscous,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Couscous,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Couscous,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cranberry,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Teff, Apple, Buckwheat"
+Cranberry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cranberry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cranberry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cranberry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cranberry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Croissant,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Blueberry, Guava, Buckwheat"
+Croissant,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Croissant,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Croissant,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Croissant,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Coriander, Mustard greens, Yogurt"
+Croissant,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cucumber,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cucumber,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cucumber,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cucumber,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Cucumber,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Cucumber,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Currant,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Barley, Brown rice, Teff"
+Currant,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Currant,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Currant,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Currant,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Currant,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Custard apple,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Pear, Amaranth, Apple"
+Custard apple,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Custard apple,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Custard apple,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Custard apple,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Custard apple,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Date,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Freekeh, Strawberry, Apple"
+Date,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Date,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Date,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Date,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Date,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Donuts,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Oats, Barley, Guava"
+Donuts,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Donuts,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Donuts,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Donuts,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Chili pepper, Quinoa, Tomato"
+Donuts,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Doughnut,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Pear, Blueberry, Quinoa"
+Doughnut,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Doughnut,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Doughnut,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Doughnut,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Doughnut,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dragon fruit,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Quinoa, Oats, Pear"
+Dragon fruit,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dragon fruit,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dragon fruit,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dragon fruit,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dragon fruit,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried apple,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Teff, Freekeh, Brown rice"
+Dried apple,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried apple,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried apple,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried apple,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried apple,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried apricot,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Buckwheat, Pear, Strawberry"
+Dried apricot,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried apricot,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried apricot,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried apricot,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried apricot,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried banana chips,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Raspberry, Barley, Teff"
+Dried banana chips,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried banana chips,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried banana chips,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried banana chips,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried banana chips,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried blueberry,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Pear, Blackberry, Amaranth"
+Dried blueberry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried blueberry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried blueberry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried blueberry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried blueberry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried cherry,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Pear, Barley, Wild rice"
+Dried cherry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried cherry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried cherry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried cherry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried cherry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried coconut,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Pear, Raspberry, Strawberry"
+Dried coconut,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried coconut,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried coconut,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried coconut,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried coconut,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried cranberry,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Blackberry, Blueberry, Teff"
+Dried cranberry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried cranberry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried cranberry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried cranberry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried cranberry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried mango,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Barley, Freekeh, Wild rice"
+Dried mango,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried mango,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried mango,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried mango,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Dried mango,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggplant (Brinjal),Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggplant (Brinjal),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggplant (Brinjal),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggplant (Brinjal),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggplant (Brinjal),Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Eggplant (Brinjal),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggs,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggs,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggs,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggs,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggs,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Eggs,Thyroid Disorder,Good,Rich in selenium and iodine,TSH,This food is recommended for this condition
+Energy bar,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Energy bar,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Energy bar,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Energy bar,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Energy bar,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Cauliflower, Garlic, Yogurt"
+Energy bar,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Falafel,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Falafel,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Falafel,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Falafel,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Falafel,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Tomato, Turnip, Bitter gourd"
+Falafel,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Farro,Diabetes,Good,"High in fiber, complex carb",Blood Glucose,This food is recommended for this condition
+Farro,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Farro,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Farro,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Farro,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Farro,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fennel,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fennel,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fennel,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fennel,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fennel,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Fennel,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fenugreek leaves (methi),Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fenugreek leaves (methi),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fenugreek leaves (methi),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fenugreek leaves (methi),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fenugreek leaves (methi),Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Fenugreek leaves (methi),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fig,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Pear, Freekeh, Blackberry"
+Fig,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fig,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fig,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fig,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fig,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fish and chips,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fish and chips,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fish and chips,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fish and chips,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fish and chips,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Ginger, Yogurt, Carrot"
+Fish and chips,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Flax seeds,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Flax seeds,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Flax seeds,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Flax seeds,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Flax seeds,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Flax seeds,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fonio,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Raspberry, Quinoa, Amaranth"
+Fonio,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fonio,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fonio,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fonio,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Fonio,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Freekeh,Diabetes,Good,"High in fiber, complex carb",Blood Glucose,This food is recommended for this condition
+Freekeh,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Freekeh,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Freekeh,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Freekeh,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Freekeh,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+French Fries,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+French Fries,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+French Fries,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Salmon, Olive oil, Kale"
+French Fries,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+French Fries,Obesity,Avoid,"Deep-fried, high calorie",BMI,"Recommended instead: Bitter gourd, Swiss chard, Yam"
+French Fries,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Garlic,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Garlic,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Garlic,Hypertension,Good,"Rich in beneficial compounds (nitrates, etc.)",Blood Pressure,This food is recommended for this condition
+Garlic,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Garlic,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Garlic,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Garlic bread,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Garlic bread,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Garlic bread,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Garlic bread,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Garlic bread,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Kale, Coriander, Sweet potato"
+Garlic bread,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ghee,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ghee,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ghee,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ghee,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ghee,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ghee,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ginger,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ginger,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ginger,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ginger,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ginger,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Ginger,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Gooseberry,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Raspberry, Blackberry, Blueberry"
+Gooseberry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Gooseberry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Gooseberry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Gooseberry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Gooseberry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Granola,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Broken wheat (Dalia), Quinoa, Amaranth"
+Granola,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Granola,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Granola,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Granola,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Granola,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Grapes,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Brown rice, Farro, Teff"
+Grapes,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Grapes,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Grapes,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Grapes,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Grapes,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Green beans,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Green beans,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Green beans,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Green beans,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Green beans,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Green beans,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Guava,Diabetes,Good,"High fiber, lower GI",Blood Glucose,This food is recommended for this condition
+Guava,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Guava,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Guava,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Guava,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Guava,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Hazelnut,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Hazelnut,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Hazelnut,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Hazelnut,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Hazelnut,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Hazelnut,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Honey,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Wild rice, Guava, Brown rice"
+Honey,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Honey,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Honey,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Honey,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Honey,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Hot dog,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Hot dog,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Hot dog,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Olive oil, Oats, Garlic"
+Hot dog,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Hot dog,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Asparagus, Cauliflower, Mustard greens"
+Hot dog,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ice cream (soft serve),Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ice cream (soft serve),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ice cream (soft serve),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ice cream (soft serve),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ice cream (soft serve),Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Pumpkin, Ladyfinger (Okra/Bhindi), Swiss chard"
+Ice cream (soft serve),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jackfruit,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Oats, Brown rice, Farro"
+Jackfruit,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jackfruit,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jackfruit,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jackfruit,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jackfruit,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jam,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Teff, Farro, Raspberry"
+Jam,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jam,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jam,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jam,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jam,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jelly,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Wild rice, Farro, Buckwheat"
+Jelly,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jelly,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jelly,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jelly,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Jelly,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kale,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kale,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kale,Hypertension,Good,"Rich in beneficial compounds (nitrates, etc.)",Blood Pressure,This food is recommended for this condition
+Kale,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Kale,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Kale,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kebab,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kebab,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kebab,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Arugula, Salmon, Kale"
+Kebab,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kebab,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Sweet potato, Leek, Arugula"
+Kebab,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ketchup,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ketchup,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ketchup,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Oats, Olive oil, Arugula"
+Ketchup,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ketchup,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ketchup,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kiwi,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Strawberry, Blackberry, Oats"
+Kiwi,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kiwi,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kiwi,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Kiwi,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kiwi,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kohlrabi,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kohlrabi,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kohlrabi,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kohlrabi,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Kohlrabi,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Kohlrabi,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ladyfinger (Okra/Bhindi),Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ladyfinger (Okra/Bhindi),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ladyfinger (Okra/Bhindi),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ladyfinger (Okra/Bhindi),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ladyfinger (Okra/Bhindi),Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Ladyfinger (Okra/Bhindi),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Leek,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Leek,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Leek,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Leek,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Leek,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Leek,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Lettuce,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Lettuce,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Lettuce,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Lettuce,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Lettuce,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Lettuce,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Loganberry,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Raspberry, Wild rice, Pear"
+Loganberry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Loganberry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Loganberry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Loganberry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Loganberry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Longan,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Broken wheat (Dalia), Amaranth, Apple"
+Longan,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Longan,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Longan,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Longan,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Longan,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Lychee,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Buckwheat, Pear, Guava"
+Lychee,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Lychee,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Lychee,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Lychee,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Lychee,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Macadamia nut,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Macadamia nut,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Macadamia nut,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Macadamia nut,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Macadamia nut,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Macadamia nut,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mango,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Blueberry, Raspberry, Wild rice"
+Mango,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mango,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mango,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Mango,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mango,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mayonnaise,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mayonnaise,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mayonnaise,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Arugula, Olive oil, Kale"
+Mayonnaise,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mayonnaise,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mayonnaise,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Milk,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Milk,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Milk,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Milk,Kidney Disease,Avoid,High in phosphorus/potassium,Potassium,Consult nutritionist for alternatives
+Milk,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Milk,Thyroid Disorder,Good,Source of iodine,TSH,This food is recommended for this condition
+Milkshakes,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Strawberry, Amaranth, Wild rice"
+Milkshakes,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Milkshakes,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Milkshakes,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Milkshakes,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Artichoke, Onion, Yam"
+Milkshakes,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Millet (Bajra),Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Guava, Wild rice, Pear"
+Millet (Bajra),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Millet (Bajra),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Millet (Bajra),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Millet (Bajra),Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Millet (Bajra),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mint,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mint,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mint,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mint,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mint,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Mint,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Momos (steamed dumplings),Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Momos (steamed dumplings),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Momos (steamed dumplings),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Momos (steamed dumplings),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Momos (steamed dumplings),Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Ridge gourd, Sweet potato, Kohlrabi"
+Momos (steamed dumplings),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Muesli,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Amaranth, Strawberry, Freekeh"
+Muesli,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Muesli,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Muesli,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Muesli,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Muesli,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Muffin,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Muffin,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Muffin,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Muffin,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Muffin,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Beetroot, Lettuce, Pumpkin"
+Muffin,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mulberry,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Quinoa, Farro, Teff"
+Mulberry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mulberry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mulberry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mulberry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mulberry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mushrooms,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mushrooms,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mushrooms,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mushrooms,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mushrooms,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Mushrooms,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mustard greens,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mustard greens,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mustard greens,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mustard greens,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mustard greens,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Mustard greens,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mustard sauce,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mustard sauce,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mustard sauce,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Garlic, Salmon, Spinach"
+Mustard sauce,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mustard sauce,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Mustard sauce,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Nachos,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Nachos,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Nachos,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Nachos,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Nachos,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Quinoa, Mushrooms, Sweet potato"
+Nachos,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Oats,Diabetes,Good,Rich in soluble fiber,Blood Glucose,This food is recommended for this condition
+Oats,Heart Disease,Good,Lowers LDL cholesterol,LDL,This food is recommended for this condition
+Oats,Hypertension,Good,Beta-glucans improve vascular health,Blood Pressure,This food is recommended for this condition
+Oats,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Oats,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Oats,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Olive oil,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Olive oil,Heart Disease,Good,Rich in monounsaturated fats,LDL,This food is recommended for this condition
+Olive oil,Hypertension,Good,Polyphenols improve vessel function,Blood Pressure,This food is recommended for this condition
+Olive oil,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Olive oil,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Olive oil,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Olives,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Barley, Quinoa, Raspberry"
+Olives,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Olives,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Olives,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Olives,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Olives,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Onion,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Onion,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Onion,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Onion,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Onion,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Onion,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Onion rings,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Onion rings,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Onion rings,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Onion rings,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Onion rings,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Zucchini, Yogurt, Potato"
+Onion rings,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Orange,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Strawberry, Oats, Apple"
+Orange,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Orange,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Orange,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Orange,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Orange,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pakora,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pakora,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pakora,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pakora,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pakora,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Radish, Artichoke, Ginger"
+Pakora,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Paneer,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Paneer,Heart Disease,Avoid,High in saturated fat,LDL,"Recommended instead: Cashew, Salmon, Olive oil"
+Paneer,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Paneer,Kidney Disease,Avoid,High in phosphorus,Potassium,Consult nutritionist for alternatives
+Paneer,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Paneer,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Papaya,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Buckwheat, Brown rice, Spelt"
+Papaya,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Papaya,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Papaya,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Papaya,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Papaya,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Passion fruit,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Apple, Brown rice, Amaranth"
+Passion fruit,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Passion fruit,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Passion fruit,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Passion fruit,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Passion fruit,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pasta (quick-serve),Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pasta (quick-serve),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pasta (quick-serve),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pasta (quick-serve),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pasta (quick-serve),Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Mint, Swiss chard, Bitter gourd"
+Pasta (quick-serve),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pastry,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Pear, Blackberry, Strawberry"
+Pastry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pastry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pastry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pastry,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Onion, Bell pepper (Capsicum), Leek"
+Pastry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peach,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Farro, Barley, Wild rice"
+Peach,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peach,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peach,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peach,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peach,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peanut butter,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peanut butter,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peanut butter,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peanut butter,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peanut butter,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peanut butter,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pear,Diabetes,Good,"High fiber, lower GI",Blood Glucose,This food is recommended for this condition
+Pear,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pear,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pear,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pear,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pear,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peas,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peas,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peas,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peas,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Peas,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Peas,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pecan,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pecan,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Pecan,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pecan,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pecan,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pecan,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pie,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pie,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pie,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pie,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pie,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Mint, Cabbage, Artichoke"
+Pie,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pine nut,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pine nut,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Pine nut,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pine nut,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pine nut,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pine nut,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pineapple,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Barley, Teff, Pear"
+Pineapple,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pineapple,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pineapple,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pineapple,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pineapple,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pistachio,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pistachio,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Pistachio,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pistachio,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pistachio,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pistachio,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pizza,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pizza,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pizza,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Olive oil, Spinach, Kale"
+Pizza,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pizza,Obesity,Avoid,High calorie density,BMI,"Recommended instead: Yam, Fennel, Mustard greens"
+Pizza,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Plum,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Teff, Buckwheat, Guava"
+Plum,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Plum,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Plum,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Plum,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Plum,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Polenta,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Blackberry, Amaranth, Quinoa"
+Polenta,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Polenta,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Polenta,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Polenta,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Polenta,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pomegranate,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Buckwheat, Quinoa, Apple"
+Pomegranate,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pomegranate,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pomegranate,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Pomegranate,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pomegranate,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Popcorn,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Popcorn,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Popcorn,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Popcorn,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Popcorn,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Coriander, Beetroot, Ridge gourd"
+Popcorn,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Potato,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Potato,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Potato,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Potato,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Potato,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Potato,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Prune,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Raspberry, Teff, Apple"
+Prune,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Prune,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Prune,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Prune,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Prune,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pumpkin,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pumpkin,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pumpkin,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pumpkin,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pumpkin,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Pumpkin,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pumpkin seeds,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pumpkin seeds,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Pumpkin seeds,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pumpkin seeds,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pumpkin seeds,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Pumpkin seeds,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Quesadillas,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Quesadillas,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Quesadillas,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Quesadillas,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Quesadillas,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Kohlrabi, Leek, Chili pepper"
+Quesadillas,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Quinoa,Diabetes,Good,"Whole grain, high protein",Blood Glucose,This food is recommended for this condition
+Quinoa,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Quinoa,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Quinoa,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Quinoa,Obesity,Good,"High protein, aids satiety",BMI,This food is recommended for this condition
+Quinoa,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Radish,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Radish,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Radish,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Radish,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Radish,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Radish,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Raisin,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Blackberry, Guava, Blueberry"
+Raisin,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Raisin,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Raisin,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Raisin,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Raisin,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Raspberry,Diabetes,Good,"High fiber, lower GI",Blood Glucose,This food is recommended for this condition
+Raspberry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Raspberry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Raspberry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Raspberry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Raspberry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rice,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Broken wheat (Dalia), Wild rice, Amaranth"
+Rice,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rice,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rice,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rice,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rice,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ridge gourd,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ridge gourd,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ridge gourd,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ridge gourd,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Ridge gourd,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Ridge gourd,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rusk,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rusk,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rusk,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rusk,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rusk,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rusk,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rye,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Wild rice, Blueberry, Apple"
+Rye,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rye,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rye,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rye,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Rye,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sago (Sabudana),Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Apple, Teff, Brown rice"
+Sago (Sabudana),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sago (Sabudana),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sago (Sabudana),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sago (Sabudana),Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sago (Sabudana),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Salmon,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Salmon,Heart Disease,Good,Rich in omega-3s,LDL,This food is recommended for this condition
+Salmon,Hypertension,Good,Omega-3s lower blood pressure,Blood Pressure,This food is recommended for this condition
+Salmon,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Salmon,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Salmon,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Samosa,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Samosa,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Samosa,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Samosa,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Samosa,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Ridge gourd, Arugula, Turnip"
+Samosa,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sandwich,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sandwich,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sandwich,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Spinach, Kale, Garlic"
+Sandwich,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sandwich,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Fennel, Leek, Tomato"
+Sandwich,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Semolina (Suji),Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Guava, Buckwheat, Strawberry"
+Semolina (Suji),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Semolina (Suji),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Semolina (Suji),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Semolina (Suji),Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Semolina (Suji),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sesame seeds,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sesame seeds,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Sesame seeds,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sesame seeds,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sesame seeds,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sesame seeds,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Shawarma,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Shawarma,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Shawarma,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Beetroot, Kale, Arugula"
+Shawarma,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Shawarma,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Eggplant (Brinjal), Cucumber, Artichoke"
+Shawarma,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sliders,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sliders,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sliders,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sliders,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sliders,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Ridge gourd, Kale, Cabbage"
+Sliders,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sorghum (Jowar),Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Barley, Strawberry, Freekeh"
+Sorghum (Jowar),Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sorghum (Jowar),Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sorghum (Jowar),Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sorghum (Jowar),Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sorghum (Jowar),Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Soy sauce,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Soy sauce,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Soy sauce,Hypertension,Avoid,High in sodium,Blood Pressure,"Recommended instead: Kale, Avocado, Spinach"
+Soy sauce,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Soy sauce,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Soy sauce,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spelt,Diabetes,Good,"High in fiber, complex carb",Blood Glucose,This food is recommended for this condition
+Spelt,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spelt,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spelt,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spelt,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spelt,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spinach,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spinach,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spinach,Hypertension,Good,"Rich in beneficial compounds (nitrates, etc.)",Blood Pressure,This food is recommended for this condition
+Spinach,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Spinach,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Spinach,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spring onion,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spring onion,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spring onion,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spring onion,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Spring onion,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Spring onion,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Star fruit,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Raspberry, Strawberry, Apple"
+Star fruit,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Star fruit,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Star fruit,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Star fruit,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Star fruit,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Strawberry,Diabetes,Good,"High fiber, lower GI",Blood Glucose,This food is recommended for this condition
+Strawberry,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Strawberry,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Strawberry,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Strawberry,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Strawberry,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Submarine sandwich,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Submarine sandwich,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Submarine sandwich,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Submarine sandwich,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Submarine sandwich,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Asparagus, Mustard greens, Corn"
+Submarine sandwich,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sultana,Diabetes,Avoid,Very high concentrated sugar,Blood Glucose,"Recommended instead: Farro, Barley, Pear"
+Sultana,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sultana,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sultana,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sultana,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sultana,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sunflower seeds,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sunflower seeds,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Sunflower seeds,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sunflower seeds,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sunflower seeds,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sunflower seeds,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sweet potato,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sweet potato,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sweet potato,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Sweet potato,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Sweet potato,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Sweet potato,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Swiss chard,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Swiss chard,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Swiss chard,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Swiss chard,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Swiss chard,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Swiss chard,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tacos,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tacos,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tacos,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tacos,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tacos,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Chili pepper, Cabbage, Carrot"
+Tacos,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tamarind,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Barley, Freekeh, Oats"
+Tamarind,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tamarind,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tamarind,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tamarind,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tamarind,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tangerine,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Apple, Guava, Broken wheat (Dalia)"
+Tangerine,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tangerine,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tangerine,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tangerine,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tangerine,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tapioca,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Spelt, Pear, Amaranth"
+Tapioca,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tapioca,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tapioca,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tapioca,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tapioca,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Teff,Diabetes,Good,"High in fiber, complex carb",Blood Glucose,This food is recommended for this condition
+Teff,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Teff,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Teff,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Teff,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Teff,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Toffee,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Pear, Amaranth, Quinoa"
+Toffee,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Toffee,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Toffee,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Toffee,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Toffee,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tofu,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tofu,Heart Disease,Good,Plant-based protein,LDL,This food is recommended for this condition
+Tofu,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tofu,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tofu,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tofu,Thyroid Disorder,Avoid,Is a goitrogen,TSH,"Recommended instead: Milk, Eggs, Yogurt"
+Tomato,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tomato,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tomato,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Tomato,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Tomato,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Tomato,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Triticale,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Spelt, Barley, Quinoa"
+Triticale,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Triticale,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Triticale,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Triticale,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Triticale,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Turnip,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Turnip,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Turnip,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Turnip,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Turnip,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Turnip,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vegetable oil,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vegetable oil,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vegetable oil,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vegetable oil,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vegetable oil,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vegetable oil,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vinegar,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vinegar,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vinegar,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vinegar,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vinegar,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Vinegar,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Waffles,Diabetes,Avoid,Very high in sugar,Blood Glucose,"Recommended instead: Spelt, Guava, Quinoa"
+Waffles,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Waffles,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Waffles,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Waffles,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Cucumber, Kale, Bell pepper (Capsicum)"
+Waffles,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Walnut,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Walnut,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Walnut,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Walnut,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Walnut,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Walnut,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Watermelon,Diabetes,Avoid,High in natural sugars,Blood Glucose,"Recommended instead: Buckwheat, Apple, Brown rice"
+Watermelon,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Watermelon,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Watermelon,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Watermelon,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Watermelon,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Watermelon seeds,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Watermelon seeds,Heart Disease,Good,Rich in healthy fats,LDL,This food is recommended for this condition
+Watermelon seeds,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Watermelon seeds,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Watermelon seeds,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Watermelon seeds,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wheat,Diabetes,Avoid,"Refined carb, high GI",Blood Glucose,"Recommended instead: Oats, Strawberry, Guava"
+Wheat,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wheat,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wheat,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wheat,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wheat,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wild rice,Diabetes,Good,"High in fiber, complex carb",Blood Glucose,This food is recommended for this condition
+Wild rice,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wild rice,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wild rice,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wild rice,Obesity,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wild rice,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wraps,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wraps,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wraps,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wraps,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Wraps,Obesity,Avoid,"High in calories, fats, and/or sugar",BMI,"Recommended instead: Fennel, Yam, Radish"
+Wraps,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Yam,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Yam,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Yam,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Yam,Kidney Disease,Avoid,High in potassium,Potassium,Consult nutritionist for alternatives
+Yam,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Yam,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Yogurt,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Yogurt,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Yogurt,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Yogurt,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Yogurt,Obesity,Good,"High protein, aids satiety",BMI,This food is recommended for this condition
+Yogurt,Thyroid Disorder,Good,Source of iodine,TSH,This food is recommended for this condition
+Zucchini,Diabetes,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Zucchini,Heart Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Zucchini,Hypertension,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Zucchini,Kidney Disease,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet
+Zucchini,Obesity,Good,"Low calorie, high in nutrients",BMI,This food is recommended for this condition
+Zucchini,Thyroid Disorder,Neutral,No direct established impact on this condition,N/A,Consume in moderation as part of a balanced diet

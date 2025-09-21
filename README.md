@@ -12,11 +12,6 @@ Instead of just giving you another list, the coach talks you through it. You tel
 
 The whole experience feels like a natural chat. What's cool is that the entire thing is self-contained. I wrote a script that creates the food database from scratch every time you run it, so you don't need to upload any files. When the bot gives you an answer, it sends a few messages one after another to make it easy to follow along. The advice is based on a clear set of rules, so it's always consistent.
 
-Want to try it?
-The entire app runs right in your browser with Google Colab, no setup needed. Just open the link below, and once it loads, go to the menu and click Runtime -> Run all. The chat window will show up at the bottom of the page, ready for you to use.
-
-Click here to run the Health AI Coach
-
 A little about the tech
 I built this using Python and Pandas to handle all the data in the background. The chat you see is made with ipywidgets, HTML, and Tailwind CSS, all running inside a Google Colab notebook.
 
